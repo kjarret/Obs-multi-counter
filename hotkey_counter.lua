@@ -158,9 +158,11 @@ end
 function script_description()
     return [[
 <h2>Version : ]] .. __version__ .. [[</h2>
-<a href="https://github.com/upgradeQ/Obscounter">Webpage</a>
+<a href="https://github.com/kjarret/Obs-multi-counter">Link Github</a>
 <h3 style="color:orange">Authors</h3>
 <a href="https://github.com/upgradeQ">upgradeQ</a><br>
+<h3 style="color:red">Contributor</h3>
+<a href="https://github.com/kjarret">kjarret</a><br>
 Released under MIT license
 ]]
 end
